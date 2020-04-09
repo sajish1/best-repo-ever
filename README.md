@@ -1,3 +1,2 @@
 # best-repo-ever
-changed again to test from vs code
-test to resole merge conflicts
+changed again to test from vs code o resole merge conflicts 2nd file
